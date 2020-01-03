@@ -1,2 +1,2 @@
-# HomeCentr - $$IMAGE_NAME$$
+# HomeCentr - rancher-console
 Template repository for Docker container repositories
