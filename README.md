@@ -1,2 +1,1 @@
-# HomeCentr - rancher-console
-Template repository for Docker container repositories
+> This repository is archived and the image should no longer be used.
